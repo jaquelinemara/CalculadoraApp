@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projeto Calculadora</string>
+    <string name="valor_1">Valor 1:</string>
+    <string name="valor_2">Valor 2:</string>
+    <string name="soma">Soma</string>
+    <string name="somaval">+</string>
+    <string name="subtracao">-</string>
+    <string name="multiplicacao">X</string>
+    <string name="mod">MOD</string>
+    <string name="resultado">Resultado:</string>
+    <string name="raiz_quadrada_valor_2">RAIZ QUADRADA (Valor 2)</string>
+    <string name="potencia">POTÊNCIA</string>
+    <string name="divisao">/</string>
+    <string name="porcentagem">%</string>
+    <string name="limpar">LIMPAR</string>
+    <string name="pot">POT</string>
+    <string name="c">C</string>
+</resources>
