@@ -1,3 +1,3 @@
 # CalculadoraApp
 
-Aplicativo Android de calculadora simples desenvolvido no Android Studio. 
+Simple calculador Android application using Android Studio. 
